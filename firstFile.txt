@@ -2,8 +2,8 @@ line1 edit
 line2 edit
 line3 edit edit 
 line4 edit edit 
-line5
-line6
+line5 folder 1
+line6 folder 1
 line7 step20.1
 line8 hotfix
 line9 hotfix
